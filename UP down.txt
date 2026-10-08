@@ -1,0 +1,2 @@
+docker compose up        # démarrer
+docker compose down      # arrêter

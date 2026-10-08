@@ -1,0 +1,10 @@
+services:
+  spark:
+    image: jupyter/pyspark-notebook
+    ports:
+      - "8888:8888"
+      - "4040:4040"
+    volumes:
+      - ./work:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
