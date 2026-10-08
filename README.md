@@ -168,5 +168,5 @@ Ajoute ici des captures d'écran ou des extraits de tableaux de résultats (top 
 
 ## Auteur
 
-**Ton nom**
+**OUCHTOUBANE Anass**
 [LinkedIn](https://www.linkedin.com/in/anass-ouchtoubane-910b192a6/?isSelfProfile=true) · [GitHub](https://github.com/ANASS12341)
